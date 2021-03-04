@@ -206,3 +206,13 @@ export default {
 ```
 npm run test:unit
 ```
+
+### 5. Lisainfo testide kohta:
+
+*[Expect](https://jestjs.io/docs/en/expect)
+
+*[Vue test utils](https://vue-test-utils.vuejs.org/guides/) - näiteid/õpetusi vue komponentide testimiseks
+
+*[Vue test utils properties](https://vue-test-utils.vuejs.org/api/wrapper/#properties) - kuidas/millele ligi saada
+
+*[Snapshot testing](https://jestjs.io/docs/en/snapshot-testing)
